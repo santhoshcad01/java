@@ -1,0 +1,4 @@
+Java is one of the most popular programming languages today because of its simplicity.
+Java programming concepts such as control statements, Arrays, Strings, 
+Object-Oriented Programming (OOP), etc.
+are very important from an interview perspective as well as from exams. 

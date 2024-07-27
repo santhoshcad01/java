@@ -17,7 +17,7 @@
 
 //do while condition:
 
-
+/*
 import java.util.Scanner;
 
 public class whilel{
@@ -34,3 +34,21 @@ public class whilel{
         while(a<10);
     }
 } 
+ */
+
+ //CLASS AND OBJECTS
+
+
+ class whilel{
+    int coffee=20;
+    int tea=15;
+     
+    public static void main(String args[]){
+
+        whilel server1= new whilel();
+        System.out.println(server1.coffee);
+
+        whilel server2= new whilel();
+        System.out.println(server2.tea);
+    }
+ }

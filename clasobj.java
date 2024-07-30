@@ -24,10 +24,37 @@
     }
 }
     */
+
+
+    
+    /*
+
+    class clasobj{
+    
+                
+        void sum(){
+           System.out.println("vanagam");
+           
+
+        }
+        void divi(){
+          System.out.println("hello");
+        }
+
+        public static void main(String args[]){
+
+            clasobj add=new clasobj();
+
+            add.sum();
+            add.divi();
+        }
+    }
+
+     */
      
     //Function method:
 
-   /* public class clasobj{
+   public class clasobj{
 
         void iphone()
         {
@@ -43,26 +70,8 @@
             clasobj phone=new clasobj();
 
             phone.iphone();
+            phone.oppo();
             
         }
     }
 
-    */
-
-
-    class clasobj{
-        int a=10;
-        int b=20;
-                
-        void sum(){
-           System.out.println(a+b);
-
-        }
-
-        public static void main(String args[]){
-
-            clasobj add=new clasobj();
-
-            add.sum();
-        }
-    }
